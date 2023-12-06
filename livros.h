@@ -8,7 +8,7 @@ typedef struct {
     char *titulo;
     char *autor;
     char *editora;
-    char idioma[3];
+    char idioma[4];
     int numPag;
     char *cidade;
     double preco;
